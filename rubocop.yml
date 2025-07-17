@@ -144,6 +144,9 @@ Layout/TrailingEmptyLines:
 Layout/TrailingWhitespace:
   Enabled: true
 
+Layout/EmptyLineAfterGuardClause:
+  Enabled: true
+  
 Lint/RedundantStringCoercion:
   Enabled: true
 
